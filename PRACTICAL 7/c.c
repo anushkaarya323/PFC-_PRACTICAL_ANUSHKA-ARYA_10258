@@ -15,3 +15,7 @@ ch='A';
 }
 return 0;
 }
+// A
+// AB
+// ABC
+// ABCD

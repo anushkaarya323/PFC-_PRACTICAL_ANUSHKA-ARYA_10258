@@ -16,3 +16,13 @@ int main(){
     }
     return 0;
 }
+// 5d "c:\Users\anush\OneDrive\Desktop\PRACTICAL C\PRACTICAL 7\" ; if ($?) { gcc b.c -o b } ; if ($?) { .\b }
+// *********
+//  *******
+//   *****
+//    ***
+//     *
+//    ***
+//   *****
+//  *******
+// *********

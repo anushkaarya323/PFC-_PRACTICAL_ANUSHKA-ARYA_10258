@@ -17,3 +17,5 @@ int main(){
     printf("x=%d,y=%d\n",x,y);
     return 0;
 }
+// After swapping:
+// x=0,y=346
